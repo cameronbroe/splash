@@ -11,6 +11,11 @@ Splash comes with a range of helper functions in the `splash` namespace to
 quickly add some color to your logs. Each function takes a `std::string` and
 returns a `std::string` all colorified.
 
+These helper functions are imported using
+```cpp
+#include <splash/splash.h>
+```
+
 #### Examples
 
 Bolding text
@@ -71,6 +76,8 @@ formatting.
 ### Example
 
 ```cpp
+#include <splash/modifier.h>
+
 splash::modifier formatter;
 formatter.addAttribute(splash::attribute::FG_RED);
 formatter.addAttribute(splash::attribute::BOLD)
