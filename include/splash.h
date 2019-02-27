@@ -1,5 +1,5 @@
-#ifndef CPP_SHARED_LIB_TEMPLATE_SPLASH_H
-#define CPP_SHARED_LIB_TEMPLATE_SPLASH_H
+#ifndef SPLASH_SPLASH_H
+#define SPLASH_SPLASH_H
 
 #include <string>
 
@@ -69,4 +69,4 @@ namespace splash {
     }
 }
 
-#endif //CPP_SHARED_LIB_TEMPLATE_SPLASH_H
+#endif //SPLASH_SPLASH_H

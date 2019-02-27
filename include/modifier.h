@@ -1,5 +1,5 @@
-#ifndef CPP_SHARED_LIB_TEMPLATE_MODIFIER_H
-#define CPP_SHARED_LIB_TEMPLATE_MODIFIER_H
+#ifndef SPLASH_MODIFIER_H
+#define SPLASH_MODIFIER_H
 
 #include <string>
 #include <vector>

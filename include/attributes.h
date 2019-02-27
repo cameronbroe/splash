@@ -1,5 +1,5 @@
-#ifndef CPP_SHARED_LIB_TEMPLATE_ATTRIBUTES_H
-#define CPP_SHARED_LIB_TEMPLATE_ATTRIBUTES_H
+#ifndef SPLASH_ATTRIBUTES_H
+#define SPLASH_ATTRIBUTES_H
 
 namespace splash {
     enum attribute {
