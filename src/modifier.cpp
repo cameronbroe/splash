@@ -24,7 +24,10 @@ namespace splash {
         std::stringstream generator;
         generator << "\033[";
         for(auto attr: this->m_attributes) {
-            generator << attr << ";";
+            generator << attr;
+            if(attr != this->m_attributes.back()) {
+                generator << ";";
+            }
         }
         generator << "m";
         return generator.str();
