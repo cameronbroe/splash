@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/cameronbroe/splash/tree/master.svg?style=svg)](https://circleci.com/gh/cameronbroe/splash/tree/master)
+
 # Splash - A C++ library for adding a splash of color
 
 Splash is a C++ library for wrapping text with ANSI color codes for the
