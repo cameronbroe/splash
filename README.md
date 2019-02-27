@@ -80,7 +80,7 @@ formatting.
 
 splash::modifier formatter;
 formatter.addAttribute(splash::attribute::FG_RED);
-formatter.addAttribute(splash::attribute::BOLD)
+formatter.addAttribute(splash::attribute::BOLD);
 std::cout << formatter.wrap("Hello world!") << std::endl;
 ```
 
