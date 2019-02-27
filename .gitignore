@@ -1,0 +1,6 @@
+build/
+vendor/
+
+# Don't need those pesky JetBrains files
+.idea/
+cmake-build-debug/
