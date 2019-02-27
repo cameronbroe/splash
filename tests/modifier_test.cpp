@@ -1,5 +1,5 @@
 #include <catch2/catch.hpp>
-#include "modifier.h"
+#include "splash/modifier.h"
 
 TEST_CASE("Testing splash modifier class", "[splash::modifier]") {
 

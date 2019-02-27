@@ -1,5 +1,5 @@
 #include <catch2/catch.hpp>
-#include "splash.h"
+#include "splash/splash.h"
 
 TEST_CASE("Testing splash helpers", "[splash::helpers]") {
 

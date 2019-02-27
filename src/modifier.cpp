@@ -1,4 +1,4 @@
-#include "modifier.h"
+#include "splash/modifier.h"
 
 #include <sstream>
 #include <vector>
